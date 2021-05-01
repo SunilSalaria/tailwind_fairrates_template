@@ -1,0 +1,18 @@
+/*===== import directives =====*/
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+/*===== custom css section =====*/
+
+/*== global classes ==*/
+body{
+    font-family: sans-serif;
+}
+
+/*== need help section ==*/
+#need-help{
+   top: -110px;
+}
